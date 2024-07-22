@@ -6,7 +6,7 @@ import time
 from tenacity import retry, stop_after_attempt, wait_fixed
 
 
-api_key = "sk-proj-rS5ndvzPPzz99BHBI1YdT3BlbkFJA79RvpuzIweYlBei3MC6"
+api_key = ""
 
 
 def encode_image(image_path):
